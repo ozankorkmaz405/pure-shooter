@@ -11,6 +11,14 @@ The Application collects information when you download and use it. This informat
 *   The time spent on the Application
 *   your mobile operating system you use
 
+**Social Media and Score-Sharing Feature**
+
+• How It Works: Score sharing is carried out entirely through the Android operating system’s built-in sharing mechanism (Intent), via the official Facebook app installed on your device or your web browser.
+
+• Data Access: Our app does not access your Facebook account information, password, profile data, or friends list in any way.
+
+• Third-Party Liability: The process that occurs after you tap the share button—including who can view the post and how your data is processed—is entirely subject to your privacy settings on Facebook and the [Meta](https://www.facebook.com/privacy/policy/) Privacy Policy.
+
 **Cookies and tracking technologies**
 
 The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
